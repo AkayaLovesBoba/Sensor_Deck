@@ -11,3 +11,4 @@ These include:
   Moisture Sensor :: Not Started
   Temperature Sensor (Waterproof) :: Not Started
   Base Shield :: Don't understand yet
+  Sunlight Sensor :: Have not bought yet
