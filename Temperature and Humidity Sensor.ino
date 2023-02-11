@@ -29,6 +29,7 @@ Serial.print ( " Temp is " ) ;
      Serial.print ( " Humidity in % is : " ) ;                    
      Serial.print ( h ) ;     // Printing the humidity on display
      Serial.print ( " % \t " ) ;     // Printing “%” on display
+     delay(1000);
           
    }
  }
