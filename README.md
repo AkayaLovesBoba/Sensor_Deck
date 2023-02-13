@@ -9,12 +9,12 @@ These include:
   
   Dual Button :: Not Started
   
-  Temp & Humi Sensor :: Not Started
+  Temp & Humi Sensor :: Finished
   
   Moisture Sensor :: Not Started
   
   Temperature Sensor (Waterproof) :: Not Started
   
-  Base Shield :: Don't understand yet
+  Base Shield :: Understand
   
   Sunlight Sensor :: Have not bought yet
